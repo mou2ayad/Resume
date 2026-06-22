@@ -6,8 +6,6 @@ Haarlem, The Netherlands
 Contact via LinkedIn: https://linkedin.com/in/mouayadkhashfeh  
 GitHub: https://github.com/mou2ayad
 
-> Public resume website source. The live site can be published with GitHub Pages from `index.html`.
-
 ## Executive Summary
 
 Engineering Manager and Software Architect with 18+ years of experience building scalable software systems, data platforms, cloud-native services, and high-performing engineering teams across Europe, Asia, Africa, and the Middle East. Combines hands-on technical depth with people leadership, architecture ownership, hiring, mentoring, and delivery execution.
@@ -126,10 +124,10 @@ Developed and maintained enterprise document management and workflow systems.
 Universiti Tenaga Nasional (UNITEN), Selangor, Malaysia | 2016 - 2020
 
 **Bachelor of Information Technology**  
-Syrian Virtual University, Syria | 2006 - 2008
+Syrian Virtual University, Damascus, Syria | 2006 - 2008
 
 **Diploma in Information Technology and Business Engineering**  
-Damascus University, Syria | 2004 - 2006
+Damascus University, Damascus, Syria | 2004 - 2006
 
 ## Publications & Speaking
 
@@ -140,9 +138,3 @@ Damascus University, Syria | 2004 - 2006
 ## Languages
 
 Arabic: Native | English: Professional working proficiency | Dutch: Elementary
-
-## Repository
-
-- `index.html` contains the public website version.
-- `CV.md` contains the same public Markdown CV.
-- This public version intentionally does not include direct email or phone contact details.
