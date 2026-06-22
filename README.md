@@ -6,7 +6,9 @@ Haarlem, The Netherlands
 Contact via LinkedIn: https://linkedin.com/in/mouayadkhashfeh  
 GitHub: https://github.com/mou2ayad
 
-> Public resume website source. The live site can be published with GitHub Pages from `index.html`.
+Live resume website: https://mou2ayad.github.io/Resume/
+
+> Public resume website source. The live site is served by GitHub Pages from `index.html`.
 
 ## Executive Summary
 
